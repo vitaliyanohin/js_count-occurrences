@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# Count Occurrences
 
 **Read the guideline before start**
 

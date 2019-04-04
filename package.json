@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "count-occurences",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "Count Occurrences",
+  "main": "src/countOccurrences.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"
@@ -10,7 +10,7 @@
   "author": "Mate academy",
   "license": "MIT",
   "devDependencies": {
-    "@mate-academy/eslint-config": "0.0.4",
+    "@mate-academy/eslint-config": "^0.0.4",
     "eslint": "^5.16.0",
     "eslint-plugin-jest": "^22.4.1",
     "eslint-plugin-node": "^8.0.1",
