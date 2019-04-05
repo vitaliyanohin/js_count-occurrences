@@ -17,7 +17,6 @@
  * countOccurrences('ABC', 'a') === 1
  *
  */
-
 function countOccurrences(phrase, letter) {
   // write code here
 }
